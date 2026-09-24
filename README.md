@@ -6,7 +6,7 @@ I am a 3rd year Product Design major with minors in UXID attending Drexel Univer
 
 ## Topic
 
-My topic will be on my Drexel University portfolio which will be used for COOP and future job interviews
+My topic will be on different types of rice based on the users Zodiac sign, for example, Jasmine, Sushi, Long grain, etc.
 
 ## AI Use
 
